@@ -16,6 +16,7 @@ class Post(models.Model):
 
     class Meta:
         abstract = True
+        app_label = 'twitterdiscovery' #set to work with python script
 
 # The Tweet class extends Post, meaning that it inherits the member fields
 # contained within the Post class while gaining additional functionality
