@@ -1,0 +1,24 @@
+-Researched how to set up a server for a raspberry pi
+       LINKS USED: http://readwrite.com/2014/06/27/raspberry-pi-web-server-website-hosting
+
+http://www.instructables.com/id/Turning-your-Raspberry-Pi-into-a-personal-web-serv/
+
+-Discovered pros and cons for Pi vs cloud server
+
+-Studied Django to be able to assist others
+
+-Made a Powerpoint for the Demo (time did not allow for it on monday)
+
+-Helped overall scheduling for meet ups
+
+-Initiated conversations about the next step in the processes
+
+-Kept important deadlines in mind and shared them to motivate and prevent lack of progress
+
+-Assisted others in smaller ways
+
+-Helped brainstorm ideas for the model, the server and organization of the MVC
+
+-Thought of bigger scale "future" implementations
+
+-I do not have a lot of physical things to show, but I was a support system for the team, organizing and managing time to meet, discuss items, found rooms for us to meet at, and helped try to fix the burn-down. I was also a research department that brought insight into decisions
