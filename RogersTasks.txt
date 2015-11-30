@@ -1,0 +1,10 @@
+-Watched Django video Tutorials
+-made sample model
+-worked with migrations tool
+-learned to work with the adminstration 
+-stored sample objects into database
+-helped kevin with model
+-tried to work on Jorges script to store objects into the database
+-read up on various documentation covering the model
+-set up an simple html page
+-worked with the forms in html and stored the entered obj into the database 
